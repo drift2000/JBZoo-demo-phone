@@ -67,7 +67,7 @@ class JConfig {
 	public $smtpuser = '';
 	public $tmp_path = 'D:/OSPanel_5.4.0/domains/jbzoo/tmp';
 	public $unicodeslugs = '0';
-	public $user = 'root';
+	public $user = '';
 	public $mailonline = '1';
 	public $memcached_persist = '1';
 	public $memcached_compress = '0';
